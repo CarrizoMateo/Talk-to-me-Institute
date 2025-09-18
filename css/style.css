@@ -2,6 +2,7 @@
         :root {
             --primary-green: #2E8B57;
             --secondary-green: #3CB371;
+            --tercery-green: #172117;
             --light-green: #90EE90;
             --dark-green: #006400;
             --accent-green: #32CD32;
@@ -263,7 +264,7 @@
 
         /* Courses Section */
         .courses {
-            background: linear-gradient(to bottom, var(--light-green), var(--primary-green));
+            background: linear-gradient(to bottom, var(--tercery-green), var(--dark-green));
             color: var(--text-light);
         }
 
@@ -300,7 +301,7 @@
         } 
         /* Contact Section */
         .contact {
-            background: linear-gradient(to bottom, var(--primary-green), var(--dark-green));
+            background: linear-gradient(to bottom, var(--tercery-green), var(--dark-green));
             color: var(--text-light);
         }
 
