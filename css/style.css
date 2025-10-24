@@ -290,6 +290,18 @@
         .course-card h3 {
             color: var(--text-light);
         }
+        .btn-wpp  {
+            display: inline-block;
+            padding: 12px 30px;
+            background-color: var(--primary-green);
+            color: var(--text-light);
+            text-decoration: none;
+            border-radius: 30px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+        }
 
         /* Aside Section */
         .aside-content {
